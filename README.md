@@ -1,214 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Nurali Khusinov | Fullstack Developer</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;600;700&display=swap');
+<div align="center">
+  <h1>Hi, I'm <a href="https://github.com/khusinovnurali">Nurali Khusinov</a></h1>
+  <p><em>Fullstack Developer</em></p>
+</div>
 
-    :root {
-      --bg: #0d1117;
-      --text: #c9d1d9;
-      --accent: #58a6ff;
-      --card: #161b22;
-      --border: #30363d;
-      --green: #238636;
-      --purple: #8b46ff;
-    }
+---
+## Technologies
 
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: 'Inter', sans-serif;
-      line-height: 1.6;
-      padding: 40px 20px;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background-image: 
-        radial-gradient(circle at 10% 20%, rgba(88, 166, 255, 0.15) 0%, transparent 20%),
-        radial-gradient(circle at 90% 80%, rgba(139, 70, 255, 0.15) 0%, transparent 20%);
-    }
+<div align="center">
 
-    .container {
-      max-width: 800px;
-      width: 100%;
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 48px 40px;
-      box-shadow: 0 20px 40px rgba(0,0,0,0.4);
-      position: relative;
-      overflow: hidden;
-    }
+### Backend & Fullstack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
-    .container::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0; height: 4px;
-      background: linear-gradient(90deg, #58a6ff, #8b46ff, #238636);
-      border-radius: 16px 16px 0 0;
-    }
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Jinja2-323232?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2"/>
 
-    h1 {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 3rem;
-      font-weight: 700;
-      background: linear-gradient(90deg, #58a6ff, #8b46ff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-align: center;
-      margin-bottom: 8px;
-    }
+### Databases & Tools
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
-    .subtitle {
-      text-align: center;
-      font-size: 1.3rem;
-      color: #8b949e;
-      margin-bottom: 48px;
-    }
+</div>
 
-    .section {
-      margin-bottom: 48px;
-    }
+---
+## Contact
 
-    .section h2 {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 1.5rem;
-      margin-bottom: 20px;
-      color: var(--accent);
-      position: relative;
-      padding-left: 20px;
-    }
+<div align="center">
+  <a href="https://t.me/khusinov7">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/nurali-khusinov">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:xnurali2197@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-    .section h2::before {
-      content: '';
-      position: absolute;
-      left: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      width: 6px;
-      height: 24px;
-      background: var(--accent);
-      border-radius: 3px;
-    }
-
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-      gap: 16px;
-    }
-
-    .skill {
-      background: rgba(88, 166, 255, 0.1);
-      border: 1px solid var(--border);
-      padding: 14px 16px;
-      border-radius: 12px;
-      text-align: center;
-      font-weight: 600;
-      transition: all 0.3s ease;
-      cursor: default;
-    }
-
-    .skill:hover {
-      transform: translateY(-6px);
-      background: rgba(88, 166, 255, 0.2);
-      border-color: var(--accent);
-      box-shadow: 0 10px 20px rgba(88, 166, 255, 0.15);
-    }
-
-    .contact {
-      display: flex;
-      justify-content: center;
-      gap: 24px;
-      flex-wrap: wrap;
-      margin-top: 40px;
-    }
-
-    .btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      padding: 14px 28px;
-      background: rgba(88, 166, 255, 0.1);
-      color: var(--text);
-      text-decoration: none;
-      border-radius: 12px;
-      font-weight: 600;
-      transition: all 0.4s ease;
-      border: 1px solid var(--border);
-    }
-
-    .btn i { font-size: 1.4rem; }
-    .btn:hover {
-      background: var(--accent);
-      color: white;
-      transform: translateY(-4px);
-      box-shadow: 0 10px 25px rgba(88, 166, 255, 0.3);
-      border-color: var(--accent);
-    }
-
-    .telegram:hover { background: #229ED9; }
-    .linkedin:hover { background: #0A66C2; }
-    .gmail:hover { background: #EA4335; }
-
-    @media (max-width: 600px) {
-      h1 { font-size: 2.4rem; }
-      .container { padding: 32px 24px; }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Nurali Khusinov</h1>
-      <p class="subtitle">Fullstack Developer</p>
-    </header>
-
-    <section class="section">
-      <h2>Technologies</h2>
-      <div class="skills-grid">
-        <!-- Backend -->
-        <div class="skill">Python</div>
-        <div class="skill">Flask</div>
-        <div class="skill">Django</div>
-        <div class="skill">C</div>
-        <div class="skill">C++</div>
-        
-        <!-- Frontend -->
-        <div class="skill">HTML5</div>
-        <div class="skill">CSS3</div>
-        <div class="skill">JavaScript</div>
-        <div class="skill">Bootstrap</div>
-        <div class="skill">Jinja2</div>
-        
-        <!-- DB & Tools -->
-        <div class="skill">PostgreSQL</div>
-        <div class="skill">MySQL</div>
-        <div class="skill">SQLite</div>
-        <div class="skill">Redis</div>
-        <div class="skill">Docker</div>
-        <div class="skill">Linux</div>
-        <div class="skill">Git</div>
-        <div class="skill">GitHub</div>
-      </div>
-    </section>
-
-    <div class="contact">
-      <a href="https://t.me/khusinov7" class="btn telegram" target="_blank">
-        <i class="fab fa-telegram-plane"></i> Telegram
-      </a>
-      <a href="https://www.linkedin.com/in/nurali-khusinov" class="btn linkedin" target="_blank">
-        <i class="fab fa-linkedin"></i> LinkedIn
-      </a>
-      <a href="mailto:xnurali2197@gmail.com" class="btn gmail">
-        <i class="fas fa-envelope"></i> Gmail
-      </a>
-    </div>
-  </div>
-</body>
-</html>
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusinovnurali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khusinovnurali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
